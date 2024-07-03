@@ -1,0 +1,14 @@
+.blue {
+    background-image: url("pikachu.jpg");
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Pn4I_wdAW4NaqvzGZhNDcrrYkYWQK9YdQQ&s);
+
+    color: blue;
+    background-repeat: no-repeat; /* 不重複 */
+}
+
+body{
+    
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Pn4I_wdAW4NaqvzGZhNDcrrYkYWQK9YdQQ&s);
+    background-attachment: scroll;
+}
+
